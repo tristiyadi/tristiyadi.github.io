@@ -1,5 +1,5 @@
-access my website profile at : <a href="tristiyadi.github.io" target="_blank">tristiyadi.github.io</a>
+access my website profile at : <http://tristiyadi.github.io>
 
 klik link this below: 
 
-<a href="tristiyadi.github.io" target="_blank"># tristiyadi.github.io</a>
+#<http://tristiyadi.github.io>
